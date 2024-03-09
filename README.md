@@ -2,15 +2,24 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+The Mentor Evaluation App is a Flutter application designed to assist mentors in evaluating and managing students. It allows mentors to assign tasks, remove students, and grade students based on their performance.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Below are some screenshots showcasing the UI and functionality of the app:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Home Screen
+![Assign Students](screenshots\26.jpg)
+![Assign Students alert](screenshots\27.jpg)
+
+### Removing Students
+![Removing Students](screenshots\28.jpg)
+![Student Removed](screenshots\29.jpg)
+
+### Grading Students
+![Grading Students](screenshots\30.jpg)
+![Graded Students](screenshots\31.jpg)
+
+
